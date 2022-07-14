@@ -1,5 +1,9 @@
-Dalam kehidupan sehari-hari, Kartu Kredit digunakan untuk membeli jasa dan barang dalam transaksi online atau transaksi offline. Mendeteksi fraud, dimana transaksi kartu kredit tidak sah atau terindikasi penipuan merupakan suatu tantangan bagi lembaga perbankan agar dapat mengurangi kerugian. Pada dataset ini akan dilakukan analisa dan modeling data dari transaksi kartu kredit, khususnya terhadap fraud transaction.
+Dalam kehidupan sehari-hari, Kartu Kredit digunakan untuk membeli jasa dan barang dalam transaksi online atau transaksi offline.
+Mendeteksi fraud, dimana transaksi kartu kredit tidak sah atau terindikasi penipuan merupakan suatu tantangan bagi lembaga perbankan agar dapat mengurangi kerugian.
+Pada dataset ini akan dilakukan analisa dan modeling data dari transaksi kartu kredit, khususnya terhadap fraud transaction.
+
 Keterangan dataset:
+
 accountNumber : nomor akun
 customerId : id customer
 creditLimit : maksimum limit kredit
